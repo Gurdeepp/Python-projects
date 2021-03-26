@@ -1,18 +1,30 @@
-<DATA>
-
-	<ROW>
-		<flightno>AB123</flightno>
-		<source_city>Delhi</source_city>
-		<destination_city>London</destination_city>
-		<scheduled_departure>1530</scheduled_departure>
-		<remarks>flight number AB123 from Delhi to London departing at 1530 hrs</remarks>
-	</ROW>
-
-	<ROW>
-		<flightno>CD456</flightno>
-		<source_city>Delhi</source_city>
-		<destination_city>Dubai</destination_city>
-		<scheduled_departure>1600</scheduled_departure>
-		<remarks>flight number CD456 from Delhi to Dubai departing at 1600 hrs</remarks>
-	</ROW>
-</DATA>
+- <DATA>
+- <ROW>
+  <flightno>AB123</flightno> 
+  <source_city>Delhi</source_city> 
+  <destination_city>London</destination_city> 
+  <scheduled_departure>1530</scheduled_departure> 
+  <remarks>flight number AB123 from Delhi to London departing at 1530 hrs</remarks> 
+  </ROW>
+- <ROW>
+  <flightno>CD456</flightno> 
+  <source_city>Delhi</source_city> 
+  <destination_city>Dubai</destination_city> 
+  <scheduled_departure>1600</scheduled_departure> 
+  <remarks>flight number CD456 from Delhi to Dubai departing at 1600 hrs</remarks> 
+  </ROW>
+- <ROW>
+  <flightno>LH789</flightno> 
+  <source_city>Delhi</source_city> 
+  <destination_city>Frankfurt</destination_city> 
+  <scheduled_departure>130</scheduled_departure> 
+  <remarks>flight number LH789 from Delhi to Frankfurt departing at 0130 hrs</remarks> 
+  </ROW>
+- <ROW>
+  <flightno>JL258</flightno> 
+  <source_city>Delhi</source_city> 
+  <destination_city>Tokyo</destination_city> 
+  <scheduled_departure>2030</scheduled_departure> 
+  <remarks>flight number JL258 from Delhi to Tokyo departing at 2030 hrs</remarks> 
+  </ROW>
+  </DATA>
